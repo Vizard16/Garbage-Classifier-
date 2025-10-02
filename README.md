@@ -9,11 +9,12 @@ The model identifies **plastic**, **glass**, and **metal (cans)**, making it a s
 - Real-time object detection with your **webcam**  
 - Detects and classifies waste types:
   - 🟦 Plastic  
-  - 🟩 Can / Metal  
-  - 🟨 Cardboard / Paper (if trained in dataset)  
+  - 🟩 Can  
   - 🟥 Glass  
 - Displays bounding boxes and confidence scores on screen  
-- Lightweight Python app using YOLOv8 + OpenCV  
+- Lightweight Python app using YOLOv8 + OpenCV
+- Model made with 95% accuracy
+
 
 ---
 
@@ -86,3 +87,7 @@ Export as a desktop or mobile app
 ##🤝 Contributing
 
 Pull requests are welcome! If you have ideas for better detection, dataset improvements, or integrations, feel free to fork this repo and submit PRs.
+
+## Inquiries 
+
+if you want the dataset used or the google notebook please write me a message via email of my profile
