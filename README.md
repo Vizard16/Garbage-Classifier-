@@ -49,7 +49,7 @@ venv\Scripts\activate   # On Windows
 pip install ultralytics opencv-python numpy
 ```
 ---
-##▶️ Usage
+## ▶️ Usage
 
 Place your trained YOLO weights (waste_classifier.pt) inside the project folder.
 
@@ -66,7 +66,7 @@ The app will draw a bounding box and print the prediction + confidence
 
 Press q to quit
 ---
-##🌍 Why this project?
+## 🌍 Why this project?
 
 Proper waste segregation is a critical challenge. By classifying and identifying trash items automatically, this project contributes to:
 
@@ -76,7 +76,7 @@ Enabling smart bins and robotic sorters
 
 Supporting the UN Sustainable Development Goals
 ---
-##📌 TODO / Future Improvements
+## 📌 TODO / Future Improvements
 
 Add support for multi-class detection (plastic, glass, paper, cardboard, trash)
 
@@ -84,7 +84,7 @@ Integrate with Arduino / IoT devices to control physical bins
 
 Export as a desktop or mobile app
 ---
-##🤝 Contributing
+## 🤝 Contributing
 
 Pull requests are welcome! If you have ideas for better detection, dataset improvements, or integrations, feel free to fork this repo and submit PRs.
 ---
